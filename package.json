@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@solid/react": "^1.7.0",
+    "graphql-tag": "^2.10.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "solid-react-graphql-ld": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
