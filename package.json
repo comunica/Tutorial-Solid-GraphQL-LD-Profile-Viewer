@@ -1,5 +1,6 @@
 {
   "name": "profile-viewer-graphqlld",
+  "homepage": "https://comunica.github.io/Tutorial-Solid-GraphQL-LD-Profile-Viewer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
