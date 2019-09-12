@@ -1,5 +1,5 @@
 import React from 'react';
-import { LoggedIn, LoggedOut, AuthButton, Value, List, withWebId } from '@solid/react';
+import { LoggedIn, LoggedOut, AuthButton, Value, withWebId } from '@solid/react';
 import { GraphQlLdProvider, Query } from 'solid-react-graphql-ld';
 import gql from "graphql-tag";
 import './App.css';
