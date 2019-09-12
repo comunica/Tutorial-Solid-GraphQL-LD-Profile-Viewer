@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tutorial-Solid-GraphQL-LD-Profile-Viewer/precache-manifest.de28272187e70c77d02ba97d22cf89e7.js"
+  "/Tutorial-Solid-GraphQL-LD-Profile-Viewer/precache-manifest.536bc9890f744a0a24450bdb32632611.js"
 );
 
 self.addEventListener('message', (event) => {
